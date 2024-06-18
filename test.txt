@@ -2,3 +2,5 @@ Enter your name
 Enter your address
 Enter your email
 Enter your city.....
+
+welcome to automation testing training
